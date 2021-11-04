@@ -19,19 +19,19 @@ typedef struct Osoba
 
 pokOsoba alocirajOsobu();
 void ispis();
-void dodajNaPocetak();
-void unesiOsobu();
-void ispisiListu();
-void ispisiOsobu();
-void dodajNaKraj();
-void pretraziPoPrezimenu();
-void brisiElementNaPoziciji();
-int prebrojiListu();
-void brisiOsobu();
-void dodajIzaOdredenog();
-void dodajIspredOdredenog();
-void sortirajPoPrezimenu();
-void upisiUDatoteku();
+void dodajNaPocetak(pokOsoba);
+void unesiOsobu(pokOsoba);
+void ispisiListu(pokOsoba);
+void ispisiOsobu(pokOsoba);
+void dodajNaKraj(pokOsoba);
+void pretraziPoPrezimenu(pokOsoba);
+void brisiElementNaPoziciji(pokOsoba);
+int prebrojiListu(pokOsoba);
+void brisiOsobu(pokOsoba);
+void dodajIzaOdredenog(pokOsoba);
+void dodajIspredOdredenog(pokOsoba);
+void sortirajPoPrezimenu(pokOsoba);
+void upisiUDatoteku(pokOsoba);
 
 int main()
 {
