@@ -1,0 +1,3 @@
+C:\Users\vjera\OneDrive\Radna površina\Strukture_podataka\zadatak_11.c\Debug\zadatak_11.c.exe
+C:\Users\Marko\Desktop\zadatak_11.c\Debug\zadatak_11.c.exe
+C:\Users\Marko\Desktop\zadatak_11.c\Debug\zadatak_11.c.pdb

@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Marko\Desktop\zadatak_11.c\Source.c(10,9): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Marko\Desktop\zadatak_11.c\Source.c(20,18): warning C4047: 'function': 'CountryPosition' differs in levels of indirection from 'CountryPosition [11]'
+C:\Users\Marko\Desktop\zadatak_11.c\Source.c(20,13): warning C4024: 'DeleteHash': different types for formal and actual parameter 1
+  zadatak_11.c.vcxproj -> C:\Users\Marko\Desktop\zadatak_11.c\Debug\zadatak_11.c.exe
